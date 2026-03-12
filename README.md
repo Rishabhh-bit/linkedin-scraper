@@ -158,3 +158,15 @@ After the first successful run you can change it to:
 HEADLESS = True
 
 - Google Sheets integration is optional.
+## Documentation
+
+Project architecture:
+docs/architecture.md
+
+## Demo
+
+See demo/video.md
+
+## Sample Output
+
+Examples of extracted data are available in the `sample_output` folder.
