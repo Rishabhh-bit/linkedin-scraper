@@ -170,3 +170,7 @@ See demo/video.md
 ## Sample Output
 
 Examples of extracted data are available in the `sample_output` folder.
+
+## Project Flowchart
+
+![Project Flowchart](docs/flowchart.png)
